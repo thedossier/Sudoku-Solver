@@ -1,5 +1,5 @@
-# Sudoku-Solver
-# Sudoku Solver created for my girlfriend who loves Sudoku but refuses to use it &lt;3
+# Sudoku Solver 
+# Created for my lovely girlfriend who loves Sudoku but refuses to use it &lt;3
 
 Simple sudoku solver made for my girlfriend, even though she will not use it. Something about "that ruins all the fun".
 
